@@ -1,0 +1,16 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.alert {
+  width: 100%;
+  padding: 20px 10px;
+  background-color: lightcoral;
+  color: rgba(187, 12, 12, 0.623);
+  text-align: center;
+  .num {
+    color: #fff;
+    font-size: 18px;
+    font-weight: 700;
+  }
+}

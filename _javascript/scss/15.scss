@@ -1,0 +1,19 @@
+:root {
+  scroll-behavior: auto; // 부트스트랩에서 마우스 천천히 내려가는거 보기 싫으면 설정
+}
+
+.navbar {
+  position: fixed;
+  width: 100%;
+  z-index: 5;
+}
+.navbar-brand {
+  font-size: 30px;
+}
+.main-bg {
+  height: 200px;
+  background-color: beige;
+  padding: 20px 0 0 20px;
+  display: flex;
+  align-items: center;
+}

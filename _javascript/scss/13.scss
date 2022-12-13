@@ -1,0 +1,12 @@
+.slide-container {
+  width: 300vw;
+  display: flex;
+  // transform: translateX(-100vw);
+  transition: all 1s;
+  .slide-box {
+    width: 100vw;
+    img {
+      width: 100%;
+    }
+  }
+}
