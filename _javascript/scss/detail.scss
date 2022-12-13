@@ -34,3 +34,8 @@ ul.list::after {
 .show {
   display: block;
 }
+select {
+  &.form-hide {
+    display: none;
+  }
+}

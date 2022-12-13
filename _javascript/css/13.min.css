@@ -1,1 +1,1 @@
-.slide-container{width:300vw;display:flex;transition:all 1s}.slide-container .slide-box{width:100vw}.slide-container .slide-box img{width:100%}
+.slide-container{width:300vw;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-transition:all 1s;transition:all 1s}.slide-container .slide-box{width:100vw}.slide-container .slide-box img{width:100%}
