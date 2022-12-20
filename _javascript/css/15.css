@@ -16,6 +16,10 @@
   height: 200px;
   background-color: beige;
   padding: 20px 0 0 20px;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  align-items: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
 }
