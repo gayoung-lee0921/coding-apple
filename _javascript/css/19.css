@@ -1,0 +1,22 @@
+body {
+  background-color: grey;
+  height: 3000px;
+}
+body .grey {
+  height: 2000px;
+  background-color: lightgrey;
+  height: 2000px;
+}
+body .grey .image {
+  float: right;
+  width: 400px;
+  position: sticky;
+  top: 100px;
+}
+body .grey .image img {
+  width: 100%;
+}
+body .grey .text {
+  float: left;
+  width: 300px;
+}

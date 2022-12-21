@@ -1,1 +1,1 @@
-:root{scroll-behavior:auto}.navbar{position:fixed;width:100%;z-index:5}.navbar-brand{font-size:30px}.main-bg{height:200px;background-color:beige;padding:20px 0 0 20px;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center}
+:root{scroll-behavior:auto}.navbar{position:fixed;width:100%;z-index:5}.navbar-brand{font-size:30px}.main-bg{height:200px;background-color:beige;padding:20px 0 0 20px;display:flex;align-items:center}
